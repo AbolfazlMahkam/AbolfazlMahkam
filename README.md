@@ -2,4 +2,12 @@ Hi, I am Abolfazl Mahkam and I am a front-end web developer with HTML, CSS and J
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind,xd,figma,wordpress)](https://skillicons.dev)
+
+I'm also a graphic designer who works with the following software:
+
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae)](https://skillicons.dev)
