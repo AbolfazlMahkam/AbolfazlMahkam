@@ -6,7 +6,7 @@ Languages:
 
 Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,mangodb,tailwind,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,mongodb,tailwind,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
 
 I'm also a graphic designer who works with the following software:
 
