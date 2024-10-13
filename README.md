@@ -6,8 +6,8 @@ Languages:
 
 Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,mongodb,tailwind,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,tailwind,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
 
 I'm also a graphic designer who works with the following software:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,au,dw)](https://skillicons.dev)
