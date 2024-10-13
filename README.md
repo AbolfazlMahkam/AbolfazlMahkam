@@ -10,4 +10,4 @@ Tools:
 
 I'm also a graphic designer who works with the following software:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,au,dw)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au,ai,dw)](https://skillicons.dev)
