@@ -16,7 +16,7 @@ Tools I Love Working With:
 
 Creating robust, dynamic, and visually appealing web applications:
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,tailwind,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,mongodb,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
 
 # 🎨 Graphic Design Expertise
 
