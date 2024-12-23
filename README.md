@@ -2,9 +2,10 @@
 
 I am a passionate Front-End Web Developer with a knack for crafting responsive and accessible websites that provide seamless user experiences across all devices. With a strong foundation in HTML, CSS, and JavaScript, I bring designs to life with precision and creativity.
 
----
+***
 
 # 🛠️ Technologies I Excel In
+
 Languages:
 
 Effortlessly blending functionality with aesthetics using these essentials:
