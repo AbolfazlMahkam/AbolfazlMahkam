@@ -1,6 +1,6 @@
 # 🌟 Hi there! I'm Abolfazl Mahkam
 
-I am a passionate Front-End Web Developer with a knack for crafting responsive and accessible websites that provide seamless user experiences across all devices. With a strong foundation in HTML, CSS, and JavaScript, I bring designs to life with precision and creativity.
+I am a dedicated Front-End Developer with a passion for building responsive, user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React.js, I specialize in transforming designs into functional, accessible, and visually appealing interfaces. My focus is on creating seamless digital experiences that meet user needs and solve real-world problems.
 
 # 🛠️ Technologies I Excel In
 
