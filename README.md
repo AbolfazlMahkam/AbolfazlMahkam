@@ -8,7 +8,7 @@ Languages:
 
 Effortlessly blending functionality with aesthetics using these essentials:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
 Tools I Love Working With:
 
