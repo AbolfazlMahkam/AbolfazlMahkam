@@ -4,21 +4,21 @@ I am a dedicated Front-End Developer with a passion for building responsive, use
 
 # 🛠️ Technologies I Excel In
 
-Languages:
+## Languages:
 
-Effortlessly blending functionality with aesthetics using these essentials:
+### Effortlessly blending functionality with aesthetics using these essentials:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
-Tools I Love Working With:
+## Tools I Love Working With:
 
-Creating robust, dynamic, and visually appealing web applications:
+### Creating robust, dynamic, and visually appealing web applications:
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,nodejs,express,mongodb,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
 
 # 🎨 Graphic Design Expertise
 
-Beyond coding, I'm also a Graphic Designer, transforming ideas into stunning visuals. My toolbox includes:
+### Beyond coding, I'm also a Graphic Designer, transforming ideas into stunning visuals. My toolbox includes:
 
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au,ai)](https://skillicons.dev)
 
