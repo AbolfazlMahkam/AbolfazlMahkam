@@ -28,6 +28,10 @@ I thrive on creating user-centric designs and interactive interfaces. My goal is
 
 <p><img align="center" width="100%" background="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&layout=compact" alt="a.mahkam.950" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&locale=en" alt="a.mahkam.950" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abolfazlmahkam&" alt="a.mahkam.950" /></p>
+
 [![](https://visitcount.itsvg.in/api?id=abolfazlmahkam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
