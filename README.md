@@ -25,3 +25,7 @@ Creating robust, dynamic, and visually appealing web applications:
 # 🚀 What Drives Me?
 
 I thrive on creating user-centric designs and interactive interfaces. My goal is to build digital experiences that captivate users and deliver value. Whether it’s designing a website, crafting a user-friendly application, or developing brand visuals, I bring creativity, dedication, and attention to detail to every project I work on.
+
+[![](https://visitcount.itsvg.in/api?id=tahajamalizade&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
