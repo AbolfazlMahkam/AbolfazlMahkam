@@ -28,7 +28,7 @@ I thrive on creating user-centric designs and interactive interfaces. My goal is
 
 # 🎖️ My GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&theme=dark&border_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&theme=dark&border_color=00000000&bg_color=00000000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&bg_color=00000000&title_color=ff0000&text_color=ffffff&icon_color=000000)
 
