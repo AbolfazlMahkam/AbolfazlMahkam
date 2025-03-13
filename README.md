@@ -30,9 +30,9 @@ I thrive on creating user-centric designs and interactive interfaces. My goal is
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=00ff00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&bg_color=00000000&title_color=ff0000&text_color=ffffff&icon_color=00ff00)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&layout=compact&theme=dark)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&layout=compact" alt="a.mahkam.950" /></p>
 
