@@ -34,7 +34,7 @@ I thrive on creating user-centric designs and interactive interfaces. My goal is
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&layout=compact&theme=dark)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&langs_count=4" alt="a.mahkam.950" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&langs_count=5" alt="a.mahkam.950" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&locale=en" alt="a.mahkam.950" /></p>
 
