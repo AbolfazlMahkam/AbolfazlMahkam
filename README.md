@@ -26,9 +26,8 @@ Creating robust, dynamic, and visually appealing web applications:
 
 I thrive on creating user-centric designs and interactive interfaces. My goal is to build digital experiences that captivate users and deliver value. Whether it’s designing a website, crafting a user-friendly application, or developing brand visuals, I bring creativity, dedication, and attention to detail to every project I work on.
 
-<style>.lan{background-color: #000000;}</style>
 
-<p><img align="center" width="100%" class="lan" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&layout=compact" alt="a.mahkam.950" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&show_icons=true&locale=en&layout=compact" alt="a.mahkam.950" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&locale=en" alt="a.mahkam.950" /></p>
 
