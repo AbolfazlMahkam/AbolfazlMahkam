@@ -26,15 +26,6 @@ Creating robust, dynamic, and visually appealing web applications:
 
 I thrive on creating user-centric designs and interactive interfaces. My goal is to build digital experiences that captivate users and deliver value. Whether it’s designing a website, crafting a user-friendly application, or developing brand visuals, I bring creativity, dedication, and attention to detail to every project I work on.
 
-# 📬 Cantact Me
-
-<div align="left">
-  <img src="[https://github.com/AbolfazlMahkam](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
-
 # 📊 My GitHub Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&langs_count=20&theme=dark&border_color=00000000&bg_color=00000000)
