@@ -1,6 +1,6 @@
 # 🌟 Hi there! I'm Abolfazl Mahkam
 
-I am a dedicated Front-End Developer with a passion for building responsive, user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks like React.js, I specialize in transforming designs into functional, accessible, and visually appealing interfaces. My focus is on creating seamless digital experiences that meet user needs and solve real-world problems.
+I am a dedicated Full Stack JavaScript Developer with a passion for building responsive, user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks across the entire stack, I specialize in creating end-to-end solutions that are functional, scalable, and visually appealing. On the frontend, I work with Vue/Nuxt and React/Next (with a strong preference for React and Next). On the backend, I'm fully proficient in Node.js, Express, and NestJS. My focus is on creating seamless digital experiences that meet user needs and solve real-world problems.
 
 # 🎓 Technologies I Excel In
 
@@ -10,21 +10,25 @@ Effortlessly blending functionality with aesthetics using these essentials:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
-### Tools I Love Working With:
+### Frontend Technologies:
 
-Creating robust, dynamic, and visually appealing web applications:
+Building responsive, interactive, and visually appealing user interfaces:
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,nodejs,express,mongodb,bootstrap,figma,xd,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,bootstrap)](https://skillicons.dev)
 
-# 🎨 Graphic Design Expertise
+### Backend Technologies:
 
-### Beyond coding, I'm also a Graphic Designer, transforming ideas into stunning visuals. My toolbox includes:
+Creating robust, scalable server-side applications and APIs:
 
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,au,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres)](https://skillicons.dev)
+
+### Design & Other Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,wordpress)](https://skillicons.dev)
 
 # 🚀 What Drives Me?
 
-I thrive on creating user-centric designs and interactive interfaces. My goal is to build digital experiences that captivate users and deliver value. Whether it’s designing a website, crafting a user-friendly application, or developing brand visuals, I bring creativity, dedication, and attention to detail to every project I work on.
+I thrive on creating complete, user-centric solutions from backend architecture to interactive interfaces. My goal is to build digital experiences that captivate users and deliver value across the entire stack. Whether it's architecting a robust backend API, crafting a user-friendly application, or developing brand visuals, I bring creativity, technical expertise, and attention to detail to every project I work on.
 
 # 📊 My GitHub Status
 
