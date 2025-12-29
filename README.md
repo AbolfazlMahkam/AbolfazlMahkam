@@ -30,7 +30,7 @@ Creating robust, scalable server-side applications and APIs:
 
 I thrive on creating complete, user-centric solutions from backend architecture to interactive interfaces. My goal is to build digital experiences that captivate users and deliver value across the entire stack. Whether it's architecting a robust backend API, crafting a user-friendly application, or developing brand visuals, I bring creativity, technical expertise, and attention to detail to every project I work on.
 
-# 📊 My GitHub Status
+<!-- # 📊 My GitHub Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&langs_count=20&theme=dark&border_color=00000000&bg_color=00000000)
 
@@ -44,4 +44,4 @@ I thrive on creating complete, user-centric solutions from backend architecture 
 
 <img src="https://raw.githubusercontent.com/abolfazl mahkam/abolfazl mahkam/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
