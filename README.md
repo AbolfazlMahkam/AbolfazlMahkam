@@ -24,7 +24,6 @@ Creating robust, scalable server-side applications and APIs:
 
 ### Design & Other Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,wordpress)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,wordpress,webstorm)](https://skillicons.dev)
 
 # 🚀 What Drives Me?
