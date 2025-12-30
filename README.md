@@ -8,23 +8,23 @@ I am a dedicated Full Stack JavaScript Developer with a passion for building res
 
 Effortlessly blending functionality with aesthetics using these essentials:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)]()
 
 ### Frontend Technologies:
 
 Building responsive, interactive, and visually appealing user interfaces:
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,bootstrap)]()
 
 ### Backend Technologies:
 
 Creating robust, scalable server-side applications and APIs:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres)]()
 
 ### Design & Other Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,wordpress,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,wordpress,webstorm)]()
 
 # 🚀 What Drives Me?
 
