@@ -1,6 +1,6 @@
 # 🌟 Hi there! I'm Abolfazl Mahkam
 
-I am a dedicated Full Stack JavaScript Developer with a passion for building responsive, user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks across the entire stack, I specialize in creating end-to-end solutions that are functional, scalable, and visually appealing. On the frontend, I work with Vue/Nuxt and React/Next (with a strong preference for React and Next). On the backend, I'm fully proficient in Node.js, Express, and NestJS. My focus is on creating seamless digital experiences that meet user needs and solve real-world problems.
+I am a dedicated Full Stack JavaScript/TypeScript Developer with a passion for building responsive, user-friendly websites and web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and modern frameworks across the entire stack, I specialize in creating end-to-end solutions that are functional, scalable, and visually appealing. On the frontend, I work with Vue/Nuxt and React/Next (with a strong preference for React and Next). On the backend, I'm fully proficient in Node.js, Express, and NestJS. My focus is on creating seamless digital experiences that meet user needs and solve real-world problems.
 
 # 🎓 Technologies I Excel In
 
