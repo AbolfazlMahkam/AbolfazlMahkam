@@ -30,18 +30,12 @@ Creating robust, scalable server-side applications and APIs:
 
 I thrive on creating complete, user-centric solutions from backend architecture to interactive interfaces. My goal is to build digital experiences that captivate users and deliver value across the entire stack. Whether it's architecting a robust backend API, crafting a user-friendly application, or developing brand visuals, I bring creativity, technical expertise, and attention to detail to every project I work on.
 
-<!-- # 📊 My GitHub Status
+![WakaTime](https://coolreadme.xyz/api/wakatime-card?user=AbolfazlMahkam&theme=dark&accent=%23F87171)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlmahkam&layout=compact&langs_count=20&theme=dark&border_color=00000000&bg_color=00000000)
+![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=AbolfazlMahkam&theme=dark&layout=spotlight&accent=F87171)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolfazlmahkam&show_icons=true&theme=dark&border_color=00000000&bg_color=00000000)
+![GitHub Stats](https://coolreadme.xyz/api/stats-card?user=AbolfazlMahkam&theme=dark&accent=%23F87171)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abolfazlmahkam&theme=dark&border_color=00000000&bg_color=00000000)
+![Star History](https://coolreadme.xyz/api/star-history-card?user=AbolfazlMahkam&repo=all&branch=main&theme=dark&accent=%23F87171)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abolfazl mahkam/abolfazl mahkam/output/snake.svg" alt="Snake animation" />
-
-### -->
+![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=AbolfazlMahkam&theme=dark&accent=%23F87171)
