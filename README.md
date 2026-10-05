@@ -30,8 +30,6 @@ Creating robust, scalable server-side applications and APIs:
 
 I thrive on creating complete, user-centric solutions from backend architecture to interactive interfaces. My goal is to build digital experiences that captivate users and deliver value across the entire stack. Whether it's architecting a robust backend API, crafting a user-friendly application, or developing brand visuals, I bring creativity, technical expertise, and attention to detail to every project I work on.
 
-![Experience](https://coolreadme.xyz/api/experience-card?user=AbolfazlMahkam&theme=dark&accent=%23F87171&entries=Roshangar%20Rayane%20Datees%7CFrontend%20Engineer%7C2023%E2%80%942025%7C%3B%3B)
-
 ![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=AbolfazlMahkam&theme=dark&layout=spotlight&accent=F87171)
 
 ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=AbolfazlMahkam&theme=dark&accent=%23F87171)
