@@ -1,4 +1,4 @@
-![Typing Headline](https://coolreadme.xyz/api/typing-card?user=AbolfazlMahkam&theme=dark&accent=%23F87171&lines=Full-Stack%20Engineer%7CReact.JS%2C%20Next.JS%7CVue.JS%2C%20Nuxtjs%7CNode.JS%2C%20express.JS%2C%20Nest.JS%7CMongoDB%2C%20PostgreSQL)
+![Typing Headline](https://coolreadme.xyz/api/typing-card?user=AbolfazlMahkam&theme=dark&accent=%23F87171&lines=Full-Stack%20Engineer%20%7C%20React%2C%20Next%20%7C%20Vue%2C%20Nuxt%20%7C%20Node%2C%20express%2C%20Nest%20%7C%20MongoDB%2C%20PostgreSQL)
 
 # 🌟 Hi there! I'm Abolfazl Mahkam
 
